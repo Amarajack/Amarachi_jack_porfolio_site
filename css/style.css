@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #4294e3;
-    --secondary: rgb(66, 6, 6);
+    --primary: #301847;
+    --secondary: #c10214;
     --light: #f0f6ff;
-    --dark: #262b47;
+    --dark: brown;
 }
 
 /*** Spinner ***/
@@ -26,7 +26,12 @@ h2,
 .fw-bold {
     font-weight: 700 !important;
 }
-
+.intro-name{
+    font-size: 70px;
+}
+.font-style{
+    font-family: cursive;
+}
 h3,
 h4,
 .fw-semi-bold {
@@ -213,6 +218,10 @@ h6,
 
 .sticky-top.navbar-light .navbar-brand img {
     max-height: 45px;
+}
+
+.img-fluid {
+    /* filter: hue-rotate(115deg); */
 }
 
 @media (max-width: 991.98px) {
