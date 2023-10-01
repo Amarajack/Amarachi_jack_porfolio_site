@@ -1,3 +1,7 @@
 nav {
-    background-color: #6d4df2;
+    background: linear-gradient(
+        to bottom right,
+        var(--primary),
+        var(--secondary)
+    );
 }
