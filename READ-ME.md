@@ -28,8 +28,8 @@ This is a solution to the [HerTechtrail_cohort 7_project for Amarachi Jack](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Amarajack/Amarachi_jack_porfolio_site)
-- Live Site URL: [Add live site URL here](https://amarajack.github.io/Amarachi_jack_porfolio_site/)
+- Solution URL: https://github.com/Amarajack/Amarachi_jack_porfolio_site
+- Live Site URL: https://amarajack.github.io/Amarachi_jack_porfolio_site/
 
 ## My process
 
