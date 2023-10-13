@@ -266,6 +266,11 @@ h6,
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 	}
+	.navbar-light .navbar-brand .amy {
+		color: #ffffff;
+		background: none;
+		-webkit-text-fill-color: white;
+	}
 
 	.navbar-light .navbar-brand img {
 		max-height: 45px;
@@ -613,4 +618,11 @@ h6,
 	.exhibit {
 		margin-bottom: 20px;
 	}
+}
+
+.navbar-light .navbar-toggler.amy {
+	border-color: white;
+}
+.navbar-light .navbar-toggler.amy span {
+	color: white;
 }
