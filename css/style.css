@@ -636,3 +636,6 @@ h6,
 .navbar-light .navbar-toggler.amy span {
 	color: white;
 }
+.row.amy {
+	--bs-gutter-y: 3rem;
+}
