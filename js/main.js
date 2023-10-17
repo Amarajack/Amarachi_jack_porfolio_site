@@ -62,6 +62,15 @@
 		time: 2000,
 	});
 
+	// Amy carousel
+	$(".amy-carousel").owlCarousel({
+		autoplay: true,
+		smartSpeed: 1000,
+		loop: true,
+		dots: true,
+		items: 1,
+	});
+
 	// Screenshot carousel
 	$(".screenshot-carousel").owlCarousel({
 		autoplay: true,
